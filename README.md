@@ -38,45 +38,10 @@ Gosto de entender como as coisas funcionam por trás dos sistemas e transformar 
 
 </div>
 
-### Também tenho experiência/contato com
-
-- REST APIs
-- Postman
-- MySQL Workbench
-- VS Code
-- .NET / C#
-- jQuery
-- Bootstrap
-- RPA e automação
-- Integrações com serviços externos
-- Git/GitHub
-
----
-
-## 💼 Experiência e projetos
-
-### 🎖️ Sistema para o Exército — Tiro de Guerra 02/31
-
-Desenvolvi uma aplicação Web destinada ao **Tiro de Guerra 02/31 de Ribeirão Preto**, criada para auxiliar na organização dos atiradores e na **criação de escalas de serviço**.
-
-O sistema foi pensado para atender aproximadamente **150 atiradores**, automatizando uma atividade que anteriormente exigia maior controle manual.
-
-**Tecnologias:** PHP, HTML, CSS, JavaScript e banco de dados.
-
-### 🚀 Desenvolvimento de sistemas em produção
-
-Atualmente atuo no desenvolvimento e manutenção de um sistema utilizado em um ambiente real, trabalhando diretamente com **desenvolvimento, correções, integrações, melhorias e suporte técnico**.
-
-Nesse trabalho, já sou responsável pelo tratamento e acompanhamento de **mais de 5.000 solicitações**, cuidando diretamente das demandas relacionadas ao sistema e garantindo sua evolução e funcionamento no dia a dia.
-
-Essa experiência me permite trabalhar não apenas com programação, mas também com **análise de problemas reais, entendimento de requisitos, manutenção de sistemas existentes, APIs, bancos de dados, integrações e resolução de problemas em produção**.
-
-
 ## 🎓 Formação
 
 **FATEC Ribeirão Preto**  
 Análise e Desenvolvimento de Sistemas — ADS
-
 **ETEC Ribeirão Preto**  
 Desenvolvimento de Sistemas - Concluído. 
 
