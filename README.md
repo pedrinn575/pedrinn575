@@ -42,6 +42,7 @@ Gosto de entender como as coisas funcionam por trás dos sistemas e transformar 
 
 **FATEC Ribeirão Preto**  
 Análise e Desenvolvimento de Sistemas — ADS
+
 **ETEC Ribeirão Preto**  
 Desenvolvimento de Sistemas - Concluído. 
 
