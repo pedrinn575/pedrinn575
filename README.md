@@ -1,6 +1,6 @@
-# Olá! Eu sou o Pedro Koagura Rorato 👋
+# Olá! Me chamo Pedro Koagura Rorato.
 
-## 🧑‍💻 Sobre mim
+## Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **FATEC Ribeirão Preto** e desenvolvedor apaixonado por tecnologia e pela criação de soluções que realmente resolvem problemas.
 
@@ -10,7 +10,7 @@ Gosto de entender como as coisas funcionam por trás dos sistemas e transformar 
 
 ---
 
-## 🚀 O que eu faço
+## O que eu faço
 
 - 💻 Desenvolvimento de aplicações Web
 - 🔗 Integração de sistemas e APIs
@@ -22,7 +22,7 @@ Gosto de entender como as coisas funcionam por trás dos sistemas e transformar 
 
 ---
 
-## 🧰 Tecnologias e ferramentas
+## Tecnologias e ferramentas
 
 <div style="display: inline_block">
 
