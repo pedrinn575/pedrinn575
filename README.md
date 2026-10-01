@@ -3,9 +3,7 @@
 ## Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **FATEC Ribeirão Preto** e desenvolvedor apaixonado por tecnologia e pela criação de soluções que realmente resolvem problemas.
-
 Atualmente trabalho com desenvolvimento de sistemas e integrações, tendo contato com **PHP, JavaScript, HTML, CSS, Python, C/C++, bancos de dados, APIs e Git**.
-
 Gosto de entender como as coisas funcionam por trás dos sistemas e transformar processos manuais em soluções mais rápidas e organizadas.
 
 ---
@@ -55,41 +53,32 @@ Gosto de entender como as coisas funcionam por trás dos sistemas e transformar 
 
 ---
 
-## 🛠️ Projetos e experiências
+## 💼 Experiência e projetos
 
-### 📚 Importador de questões
+### 🎖️ Sistema para o Exército — Tiro de Guerra 02/31
 
-Desenvolvimento de uma solução em **PHP** para importação e processamento de questões de provas, incluindo geração de **PDFs** e utilização de **IA para auxiliar na interpretação e organização do conteúdo**.
+Desenvolvi uma aplicação Web destinada ao **Tiro de Guerra 02/31 de Ribeirão Preto**, criada para auxiliar na organização dos atiradores e na **criação de escalas de serviço**.
 
-### 🔗 Integrações e sistemas Web
+O sistema foi pensado para atender aproximadamente **150 atiradores**, automatizando uma atividade que anteriormente exigia maior controle manual.
 
-Experiência trabalhando com sistemas Web, integrações entre plataformas, APIs e processos automatizados, incluindo sistemas voltados para **gestão, certificados e atendimento**.
+**Tecnologias:** PHP, HTML, CSS, JavaScript e banco de dados.
 
-### 🤖 Automação
+### 🚀 Desenvolvimento de sistemas em produção
 
-Interesse e experiência na criação de automações para reduzir tarefas repetitivas e melhorar processos internos.
+Atualmente atuo no desenvolvimento e manutenção de um sistema utilizado em um ambiente real, trabalhando diretamente com **desenvolvimento, correções, integrações, melhorias e suporte técnico**.
 
----
+Nesse trabalho, já sou responsável pelo tratamento e acompanhamento de **mais de 5.000 solicitações**, cuidando diretamente das demandas relacionadas ao sistema e garantindo sua evolução e funcionamento no dia a dia.
 
-## 📖 Atualmente estudando
+Essa experiência me permite trabalhar não apenas com programação, mas também com **análise de problemas reais, entendimento de requisitos, manutenção de sistemas existentes, APIs, bancos de dados, integrações e resolução de problemas em produção**.
 
-- C e C++
-- Python
-- PHP
-- JavaScript
-- Banco de dados
-- APIs e integrações
-- Git e GitHub
-- Docker
-- Estruturas de dados e lógica de programação
-- Desenvolvimento de sistemas
-
----
 
 ## 🎓 Formação
 
 **FATEC Ribeirão Preto**  
 Análise e Desenvolvimento de Sistemas — ADS
+
+**ETEC Ribeirão Preto**  
+Desenvolvimento de Sistemas - Concluído. 
 
 ---
 
